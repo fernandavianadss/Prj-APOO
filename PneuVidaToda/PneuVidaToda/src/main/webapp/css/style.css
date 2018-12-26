@@ -1,0 +1,41 @@
+/*
+*
+* @author Fernanda Viana
+* @version 1.0
+*/
+
+
+/* -- cabeçalho da página -- */
+nav.navbar-sistema {
+    background-color: #f0f8ff;
+    border-color: #e7e7e7;
+}
+
+img#logo {
+    display: block;
+    width: 100px;
+    margin-top: -10px;
+}
+
+/* -- conteúdo -- */
+.title{
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+ul.listas{
+	list-style: none;
+	padding: 5px 110px;
+	font-weight: bold;
+	width: 50%;
+}
+
+li.alerts{
+	padding: 5px;
+	margin-bottom: 10px;
+}
